@@ -19,6 +19,8 @@ def home():
 def welcome():
     return "Welcome onboard!"
 
+# create two more toutes, add the functionality for email and password
+
 
 if __name__=='__main__':
     app.run(debug=True)
